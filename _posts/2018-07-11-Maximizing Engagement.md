@@ -26,4 +26,10 @@ To find out which stations the charity should focus most of its resources (i.e. 
 
 ### Most Likely to Donate
 
-**Data**. 
+**Data**. We found housing prices from the New York Government Rolling Sales data.
+
+**Assumptions**.
+
+## Algorithm
+
+

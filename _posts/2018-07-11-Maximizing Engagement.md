@@ -14,5 +14,8 @@ To find out which stations the charity should focus most of its resources (i.e. 
 
 ![MTA Traffic](https://github.com/Karawkz/karawkz.github.io/blob/master/MTAtraffic.png?raw=true)
 
-### a) Individuals in Tech
+### Individuals in Tech or Interested in Tech
 
+**Data**. 
+
+![Tech Companies & School Density](https://github.com/Karawkz/karawkz.github.io/blob/master/TechInt1.png?raw=true)

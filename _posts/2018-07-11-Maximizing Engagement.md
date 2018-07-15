@@ -8,16 +8,17 @@ To find out which stations the charity should focus most of its resources (i.e. 
 
 ### Stations with Most Traffic
 
-**Data**. We used MTA turnstile data and focused on the mean exits per hour per station. 
+**Data**. We used MTA turnstile data and focused on the mean exits per hour per station. Using the US ZipCodes API, we found the zip codes of the stations to make them comparable with the other data we used.
 
 **Assumptions**. Given that the gala would take place during Summer, we decided to analyse data from the *last 3 years during the Summer period (May to July)*. As we wish to target the working crowd, our focus was on *weekdays during work hours from 6am to 8pm*. 
 
 **Outcomes.** Below is a map of some of the stations with the most traffic; the larger the labels, the greater the traffic.
+
 ![MTA Traffic](https://github.com/Karawkz/karawkz.github.io/blob/master/MTAtraffic.png?raw=true)
 
 ### Individuals in Tech or Interested in Tech
 
-**Data**. We used 2 data sets from Google Maps API and MeetUp API to identify locations. 
+**Data**. We used 2 data sets from Google Maps API and MeetUp API to identify locations and their zip codes. 
 
 **Assumptions**. As proxies of tech interest, we focused on areas with the greatest number of tech companies and schools as well as upcoming MeetUp tech events during the Summer. The idea is that people who are already in the tech industry or are interested in tech events would more likely be interested in coming to a tech gala.
 ![Tech Companies & School Density](https://github.com/Karawkz/karawkz.github.io/blob/master/TechInt1.png?raw=true)
@@ -26,9 +27,9 @@ To find out which stations the charity should focus most of its resources (i.e. 
 
 ### Most Likely to Donate
 
-**Data**. We found housing prices from the New York Government Rolling Sales data.
+**Data**. We found the zip codes with the highest housing price sales from the New York Government Rolling Sales data during June 2017 to May 2018.
 
-**Assumptions**.
+**Assumptions**. People who are able to donate are more likely to donate at the event. We therefore identified the wealthier neighbourhoods in New York and their respective zip codes. 
 
 ## Algorithm
 

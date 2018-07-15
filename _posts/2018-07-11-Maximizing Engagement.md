@@ -22,15 +22,18 @@ To find out which stations the charity should focus most of its resources (i.e. 
 
 **Assumptions**. As proxies of tech interest, we focused on areas with the greatest number of tech companies and schools as well as upcoming MeetUp tech events during the Summer. The idea is that people who are already in the tech industry or are interested in tech events would more likely be interested in coming to a tech gala.
 ![Tech Companies & School Density](https://github.com/Karawkz/karawkz.github.io/blob/master/TechInt1.png?raw=true)
-![Tech Companies & School Density](https://github.com/Karawkz/karawkz.github.io/blob/master/TechInt2.png?raw=true)
+![MeetUp Events](https://github.com/Karawkz/karawkz.github.io/blob/master/TechInt2.png?raw=true)
 **Outcomes**. After using Google Maps API to map addresses to their zip codes, we found that the zip codes of Manhattan and specifically Silicon Alley had the most tech interest.
 
 ### Most Likely to Donate
 
-**Data**. We found the zip codes with the highest housing price sales from the New York Government Rolling Sales data during June 2017 to May 2018.
+**Data**. We focused on areas the highest housing price sales of 1,2,3 individual family homes and multi-story apartments from the New York Government Rolling Sales data during June 2017 to May 2018.
 
-**Assumptions**. People who are able to donate are more likely to donate at the event. We therefore identified the wealthier neighbourhoods in New York and their respective zip codes. 
+**Assumptions**. People who are able to donate are more likely to donate at the event. We therefore identified the wealthier neighbourhoods in New York and their respective zip codes.
+
+**Outcomes**. Utilising US ZipCodes API, we found once again that Manhattan had the wealthiest neighbourhoods.
 
 ## Algorithm
+![Galability](https://github.com/Karawkz/karawkz.github.io/blob/master/Galability.png?raw=true)
 
 

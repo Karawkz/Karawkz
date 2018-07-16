@@ -30,7 +30,7 @@ To find out which stations the charity should focus most of its resources (i.e. 
 **Data**. We focused on areas the highest housing price sales of 1,2,3 individual family homes and multi-story apartments from the New York Government Rolling Sales data during June 2017 to May 2018.
 
 **Assumptions**. People who are able to donate are more likely to donate at the event. We therefore identified the wealthier neighbourhoods in New York and their respective zip codes.
-
+![Wealth]https://github.com/Karawkz/karawkz.github.io/blob/master/Wealth.png?raw=true
 **Outcomes**. Utilising the US ZipCodes API, we found once again that Manhattan had the wealthiest neighbourhoods.
 
 ## Algorithm - Galability Score

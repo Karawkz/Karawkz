@@ -33,18 +33,17 @@ To find out which stations the charity should focus most of its resources (i.e. 
 
 **Outcomes**. Utilising the US ZipCodes API, we found once again that Manhattan had the wealthiest neighbourhoods.
 
-## Algorithm
+## Algorithm - Galability Score
+We computed the *Galability Score* for each of the stations based on our algorithm below. The stations with the highest scores are the ones which will likely optimise our goals by proxy.
 ![Galability](https://github.com/Karawkz/karawkz.github.io/blob/master/Galability.png?raw=true)
 
 ## Results and Recommendations
 
-After scaling features, comparing the most important zip codes and translating them back to station locations, we found that the stations that have the most traffic during Summer, especially that of individuals in or interested in tech and in wealthier neighbourhoods, are in the table below:
+After comparing the most important zip codes and translating them back to station locations, and scaling the various features, we found that the stations that have the most traffic during Summer, especially that of individuals in or interested in tech and in wealthier neighbourhoods, are as follows:
 
 ![Results](https://github.com/Karawkz/karawkz.github.io/blob/master/Results.png?raw=true)
 
-This is based on the *Galability Score* that we computed from our algorithm. The charity should thus deploy the most resources to these stations and do so proportionately to the stations' scores.
-
-We also found that the times with the most traffic for these prioritised stations were from 9am to 12pm and 5pm to 8pm.
+We also noticed that the times with the most traffic for these prioritised stations were from 9am to 12pm and 5pm to 8pm - when people go to work, have lunch and go home from work. The charity should thus deploy the most resources to these stations and do so proportionately to the stations' scores during these time frames.
 
 ## If time had permitted us
 
@@ -54,3 +53,7 @@ Other data we would have liked to explore are:
 * Gender data - the gala is a women in tech event and we would have liked to encourage more women engagement;
 * Tourism data - given that tourists are likely unable to attend the gala and there are many tourists in Manhattan, we would have liked to filter them out; and
 * Income data - further analyses on neighborhoods where people had the ability to donate.
+
+## Thank you!
+
+I enjoyed putting together this project very much and found the process stimulating, and I also really appreciate the diligence of my team mates (some of whom did not sleep through the night)! :)

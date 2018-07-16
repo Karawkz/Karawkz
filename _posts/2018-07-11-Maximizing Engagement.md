@@ -18,7 +18,7 @@ To find out which stations the charity should focus most of its resources (i.e. 
 
 ### Individuals in Tech or Interested in Tech
 
-**Data**. We used 2 data sets from Google Maps API and MeetUp API to identify locations and their zip codes. 
+**Data**. We used 2 data sets from Google Maps API and MeetUp API to identify locations and their respective zip codes. 
 
 **Assumptions**. As proxies of tech interest, we focused on areas with the greatest number of tech companies and schools as well as upcoming MeetUp tech events during the Summer. The idea is that people who are already in the tech industry or are interested in tech events would more likely be interested in coming to a tech gala.
 ![Tech Companies & School Density](https://github.com/Karawkz/karawkz.github.io/blob/master/TechInt1.png?raw=true)

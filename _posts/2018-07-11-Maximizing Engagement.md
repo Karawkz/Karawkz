@@ -39,7 +39,9 @@ To find out which stations the charity should focus most of its resources (i.e. 
 ## Results and Recommendations
 
 After scaling features, comparing the most important zip codes and translating them back to station locations, we found that the stations that have the most traffic during Summer, especially that of individuals in or interested in tech and in wealthier neighbourhoods, are in the table below:
+
 ![Results](https://github.com/Karawkz/karawkz.github.io/blob/master/Results.png?raw=true)
+
 This is based on the *Galability Score* that we computed from our algorithm. The charity should thus deploy the most resources to these stations and do so proportionately to the stations' scores.
 
 We also found that the times with the most traffic for these prioritised stations were from 9am to 12pm and 5pm to 8pm.

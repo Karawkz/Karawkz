@@ -58,4 +58,4 @@ Other data we would have liked to explore are:
 
 I enjoyed putting together this project very much and found the process stimulating, and I also really appreciate the diligence of my team mates (some of whom did not sleep through the night)! :)
 
-Our slide deck for reference: https://github.com/Karawkz/karawkz.github.io/blob/master/Project%20Benson.pdf
+[Our slide deck for reference.](https://github.com/Karawkz/karawkz.github.io/blob/master/Project%20Benson.pdf)

@@ -45,7 +45,7 @@ After comparing the most important zip codes and translating them back to statio
 
 We also noticed that the times with the most traffic for these prioritised stations were from 9am to 12pm and 5pm to 8pm - when people go to work, have lunch and go home from work. The charity should thus deploy the most resources to these stations and do so proportionately to the stations' scores during these time frames.
 
-## If time had permitted us
+## If time had permitted us,
 
 We only had around 4 days to complete the project. If time had permitted us, we would have taken a step deeper and analysed which exits in these train stations had the most traffic. This would have enabled us to make more specific recommendations with respect to where street teams could have been placed in stations as there are often multiple exits in stations.
 
